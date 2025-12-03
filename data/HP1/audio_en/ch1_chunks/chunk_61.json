@@ -1,0 +1,55 @@
+{
+  "chunk_file": "chunk_61.wav",
+  "text": " If the motor-bike was huge, it was nothing to the man sitting astride it. He was almost twice as tall as a normal man, and at least five times as wide. He looked simply too big to be allowed, and so wild. Long tangles of bushy black hair and beard hid most of his face. He had hands the size of dust-bin lids, and his feet in their leather boots were like baby dolphins. In his vast, muscular arms he was holding a bundle of blankets. \"'Hagrid!' said Dumbledore, sounding relieved. \"'At last! And where did you get that motor-bike?'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.2,
+      "text": " If the motor-bike was huge, it was nothing to the man sitting astride it."
+    },
+    {
+      "id": 1,
+      "start": 5.36,
+      "end": 10.96,
+      "text": " He was almost twice as tall as a normal man, and at least five times as wide."
+    },
+    {
+      "id": 2,
+      "start": 11.52,
+      "end": 16.1,
+      "text": " He looked simply too big to be allowed, and so wild."
+    },
+    {
+      "id": 3,
+      "start": 16.7,
+      "end": 21.5,
+      "text": " Long tangles of bushy black hair and beard hid most of his face."
+    },
+    {
+      "id": 4,
+      "start": 21.68,
+      "end": 27.72,
+      "text": " He had hands the size of dust-bin lids, and his feet in their leather boots were like baby dolphins."
+    },
+    {
+      "id": 5,
+      "start": 27.72,
+      "end": 33.12,
+      "text": " In his vast, muscular arms he was holding a bundle of blankets."
+    },
+    {
+      "id": 6,
+      "start": 35.04,
+      "end": 37.76,
+      "text": " \"'Hagrid!' said Dumbledore, sounding relieved."
+    },
+    {
+      "id": 7,
+      "start": 38.1,
+      "end": 42.24,
+      "text": " \"'At last! And where did you get that motor-bike?'"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chunk_file": "chunk_25.wav",
+  "text": " \"'Sorry,' he grunted, as the tiny old man stumbled and almost fell. It was a few seconds before Mr Dursley realised that the man was wearing a violet cloak. He didn't seem at all upset at being almost knocked to the ground. On the contrary, his face split into a wide smile, and he said in a squeaky voice that made passers-by stare, \"'Oh, don't be sorry, my dear sir, for nothing could upset me today. Nay, rejoice, for you-know-who has gone at last. Even muggles like yourselves should be celebrating this happy, happy day.' And the old man hugged Mr Dursley around the middle and walked off.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.74,
+      "text": " \"'Sorry,' he grunted, as the tiny old man stumbled and almost fell."
+    },
+    {
+      "id": 1,
+      "start": 5.380000000000005,
+      "end": 10.94,
+      "text": " It was a few seconds before Mr Dursley realised that the man was wearing a violet cloak."
+    },
+    {
+      "id": 2,
+      "start": 11.520000000000005,
+      "end": 15.16,
+      "text": " He didn't seem at all upset at being almost knocked to the ground."
+    },
+    {
+      "id": 3,
+      "start": 15.4,
+      "end": 18.92,
+      "text": " On the contrary, his face split into a wide smile,"
+    },
+    {
+      "id": 4,
+      "start": 19.14,
+      "end": 22.22,
+      "text": " and he said in a squeaky voice that made passers-by stare,"
+    },
+    {
+      "id": 5,
+      "start": 22.52,
+      "end": 25.98,
+      "text": " \"'Oh, don't be sorry, my dear sir, for nothing could upset me today."
+    },
+    {
+      "id": 6,
+      "start": 25.98,
+      "end": 30.54,
+      "text": " Nay, rejoice, for you-know-who has gone at last."
+    },
+    {
+      "id": 7,
+      "start": 30.8,
+      "end": 35.66,
+      "text": " Even muggles like yourselves should be celebrating this happy, happy day.'"
+    },
+    {
+      "id": 8,
+      "start": 35.66,
+      "end": 40.38,
+      "text": " And the old man hugged Mr Dursley around the middle and walked off."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_62.wav",
+  "text": " Borrowed it, Professor Dumbledore, sir, said the giant, climbing carefully off the motor-bike as he spoke. Young Sirius Black lended me.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.4,
+      "text": " Borrowed it, Professor Dumbledore, sir, said the giant, climbing carefully off the motor-bike as he spoke."
+    },
+    {
+      "id": 1,
+      "start": 5.9,
+      "end": 7.68,
+      "text": " Young Sirius Black lended me."
+    }
+  ]
+}

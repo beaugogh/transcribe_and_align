@@ -1,0 +1,31 @@
+{
+  "chunk_file": "chunk_2.wav",
+  "text": " \"'Mr. and Mrs. Dursley, of No. 4 Privet Drive, \"'were proud to say that they were perfectly normal, thank you very much. \"'They were the last people you'd expect to be involved in anything strange or mysterious, \"'because they just didn't hold with such nonsense.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.46,
+      "text": " \"'Mr. and Mrs. Dursley, of No. 4 Privet Drive,"
+    },
+    {
+      "id": 1,
+      "start": 3.76,
+      "end": 7.94,
+      "text": " \"'were proud to say that they were perfectly normal, thank you very much."
+    },
+    {
+      "id": 2,
+      "start": 8.16,
+      "end": 13.58,
+      "text": " \"'They were the last people you'd expect to be involved in anything strange or mysterious,"
+    },
+    {
+      "id": 3,
+      "start": 13.98,
+      "end": 17.4,
+      "text": " \"'because they just didn't hold with such nonsense.'"
+    }
+  ]
+}

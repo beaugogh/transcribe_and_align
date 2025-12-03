@@ -1,0 +1,25 @@
+{
+  "chunk_file": "chunk_13.wav",
+  "text": " \"'But then it struck Mr. Dursley that this was probably some silly stunt. \"'These people were obviously collecting for something. \"'Yes, that would be it.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.32,
+      "text": " \"'But then it struck Mr. Dursley that this was probably some silly stunt."
+    },
+    {
+      "id": 1,
+      "start": 4.6,
+      "end": 7.64,
+      "text": " \"'These people were obviously collecting for something."
+    },
+    {
+      "id": 2,
+      "start": 7.78,
+      "end": 9.54,
+      "text": " \"'Yes, that would be it.'"
+    }
+  ]
+}

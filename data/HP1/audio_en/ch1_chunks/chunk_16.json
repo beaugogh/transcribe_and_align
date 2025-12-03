@@ -1,0 +1,43 @@
+{
+  "chunk_file": "chunk_16.wav",
+  "text": " Mr Dursley, however, had a perfectly normal, owl-free morning. He yelled at five different people. He made several important telephone calls, and shouted a bit more. He was in a very good mood until lunch-time, when he thought he'd stretch his legs and walk across the road to buy himself a bun from the baker's opposite.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.98,
+      "text": " Mr Dursley, however, had a perfectly normal, owl-free morning."
+    },
+    {
+      "id": 1,
+      "start": 4.6000000000000005,
+      "end": 6.32,
+      "text": " He yelled at five different people."
+    },
+    {
+      "id": 2,
+      "start": 6.36,
+      "end": 10.08,
+      "text": " He made several important telephone calls, and shouted a bit more."
+    },
+    {
+      "id": 3,
+      "start": 10.48,
+      "end": 14.04,
+      "text": " He was in a very good mood until lunch-time,"
+    },
+    {
+      "id": 4,
+      "start": 14.12,
+      "end": 17.62,
+      "text": " when he thought he'd stretch his legs and walk across the road"
+    },
+    {
+      "id": 5,
+      "start": 17.62,
+      "end": 20.14,
+      "text": " to buy himself a bun from the baker's opposite."
+    }
+  ]
+}

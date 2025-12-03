@@ -1,0 +1,217 @@
+{
+  "chunk_file": "chunk_50.wav",
+  "text": " \"'I suppose he really has gone, Dumbledore?' \"'It certainly seems so,' said Dumbledore. \"'We have much to be thankful for. Would you care for a sherbet lemon?' \"'A what?' \"'A sherbet lemon. They're a kind of muggle sweet I'm rather fond of.' \"'No, thank you,' said Professor McGonagall, coldly, as though she didn't think this was the moment for sherbet lemons. \"'As I say, even if you-know-who has gone, my dear Professor, surely a sensible person like yourself can call him by his name? All this you-know-who nonsense! For eleven years I've been trying to persuade people to call him by his proper name. Voldemort!' Professor McGonagall flinched, but Dumbledore, who was unsticking two sherbet lemons, seemed not to notice. \"'It all gets so confusing. If we keep saying you-know-who, I've never seen any reason to be frightened of saying Voldemort's name.' \"'I know you haven't,' said Professor McGonagall, sounding half-exasperated, half-admiring. \"'But you're different. Everyone knows you're the only one you know—' \"'Oh, all right. Voldemort was frightened of.' \"'You flatter me,' said Dumbledore, calmly. \"'Voldemort had powers I will never have. Only because you—' \"'You're too, well, noble to use them.' \"'Oh, it's lucky it's dark. I haven't blushed so much since Madam Pumphrey told me she liked my new earmuffs.' Professor McGonagall shot a sharp look at Dumbledore and said, \"'The owls are nothing to the rumours that are flying around. You know what everyone's saying about why he's disappeared, about what finally stopped him?'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.18,
+      "text": " \"'I suppose he really has gone, Dumbledore?'"
+    },
+    {
+      "id": 1,
+      "start": 5.1000000000000005,
+      "end": 7.92,
+      "text": " \"'It certainly seems so,' said Dumbledore."
+    },
+    {
+      "id": 2,
+      "start": 8.0,
+      "end": 10.02,
+      "text": " \"'We have much to be thankful for."
+    },
+    {
+      "id": 3,
+      "start": 10.46,
+      "end": 12.68,
+      "text": " Would you care for a sherbet lemon?'"
+    },
+    {
+      "id": 4,
+      "start": 12.68,
+      "end": 13.9,
+      "text": " \"'A what?'"
+    },
+    {
+      "id": 5,
+      "start": 13.9,
+      "end": 15.66,
+      "text": " \"'A sherbet lemon."
+    },
+    {
+      "id": 6,
+      "start": 15.9,
+      "end": 18.88,
+      "text": " They're a kind of muggle sweet I'm rather fond of.'"
+    },
+    {
+      "id": 7,
+      "start": 18.88,
+      "end": 22.38,
+      "text": " \"'No, thank you,' said Professor McGonagall, coldly,"
+    },
+    {
+      "id": 8,
+      "start": 22.38,
+      "end": 25.54,
+      "text": " as though she didn't think this was the moment for sherbet lemons."
+    },
+    {
+      "id": 9,
+      "start": 25.54,
+      "end": 30.92,
+      "text": " \"'As I say, even if you-know-who has gone,"
+    },
+    {
+      "id": 10,
+      "start": 31.1,
+      "end": 37.32,
+      "text": " my dear Professor, surely a sensible person like yourself can call him by his name?"
+    },
+    {
+      "id": 11,
+      "start": 37.62,
+      "end": 40.64,
+      "text": " All this you-know-who nonsense!"
+    },
+    {
+      "id": 12,
+      "start": 41.06,
+      "end": 44.8,
+      "text": " For eleven years I've been trying to persuade people to call him by his proper name."
+    },
+    {
+      "id": 13,
+      "start": 45.6,
+      "end": 46.24,
+      "text": " Voldemort!'"
+    },
+    {
+      "id": 14,
+      "start": 46.24,
+      "end": 48.76,
+      "text": " Professor McGonagall flinched,"
+    },
+    {
+      "id": 15,
+      "start": 48.76,
+      "end": 53.1,
+      "text": " but Dumbledore, who was unsticking two sherbet lemons, seemed not to notice."
+    },
+    {
+      "id": 16,
+      "start": 53.46,
+      "end": 55.34,
+      "text": " \"'It all gets so confusing."
+    },
+    {
+      "id": 17,
+      "start": 55.54,
+      "end": 57.56,
+      "text": " If we keep saying you-know-who,"
+    },
+    {
+      "id": 18,
+      "start": 57.68,
+      "end": 61.94,
+      "text": " I've never seen any reason to be frightened of saying Voldemort's name.'"
+    },
+    {
+      "id": 19,
+      "start": 61.94,
+      "end": 65.54,
+      "text": " \"'I know you haven't,' said Professor McGonagall,"
+    },
+    {
+      "id": 20,
+      "start": 65.66,
+      "end": 68.76,
+      "text": " sounding half-exasperated, half-admiring."
+    },
+    {
+      "id": 21,
+      "start": 69.04,
+      "end": 70.58,
+      "text": " \"'But you're different."
+    },
+    {
+      "id": 22,
+      "start": 70.9,
+      "end": 73.98,
+      "text": " Everyone knows you're the only one you know—'"
+    },
+    {
+      "id": 23,
+      "start": 74.1,
+      "end": 74.82,
+      "text": " \"'Oh, all right."
+    },
+    {
+      "id": 24,
+      "start": 74.86,
+      "end": 77.2,
+      "text": " Voldemort was frightened of.'"
+    },
+    {
+      "id": 25,
+      "start": 77.2,
+      "end": 80.8,
+      "text": " \"'You flatter me,' said Dumbledore, calmly."
+    },
+    {
+      "id": 26,
+      "start": 81.58,
+      "end": 83.98,
+      "text": " \"'Voldemort had powers I will never have."
+    },
+    {
+      "id": 27,
+      "start": 84.34,
+      "end": 85.52,
+      "text": " Only because you—'"
+    },
+    {
+      "id": 28,
+      "start": 85.52,
+      "end": 89.68,
+      "text": " \"'You're too, well, noble to use them.'"
+    },
+    {
+      "id": 29,
+      "start": 89.68,
+      "end": 91.72,
+      "text": " \"'Oh, it's lucky it's dark."
+    },
+    {
+      "id": 30,
+      "start": 91.88,
+      "end": 96.34,
+      "text": " I haven't blushed so much since Madam Pumphrey told me she liked my new earmuffs.'"
+    },
+    {
+      "id": 31,
+      "start": 96.94,
+      "end": 100.34,
+      "text": " Professor McGonagall shot a sharp look at Dumbledore and said,"
+    },
+    {
+      "id": 32,
+      "start": 100.44,
+      "end": 104.54,
+      "text": " \"'The owls are nothing to the rumours that are flying around."
+    },
+    {
+      "id": 33,
+      "start": 104.94,
+      "end": 107.76,
+      "text": " You know what everyone's saying about why he's disappeared,"
+    },
+    {
+      "id": 34,
+      "start": 108.44,
+      "end": 110.82,
+      "text": " about what finally stopped him?'"
+    }
+  ]
+}

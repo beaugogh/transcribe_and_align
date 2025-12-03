@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_20.wav",
+  "text": " He looked back at the whisperers as if he wanted to say something to them, but thought better of it.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.22,
+      "text": " He looked back at the whisperers as if he wanted to say something to them, but thought"
+    },
+    {
+      "id": 1,
+      "start": 4.22,
+      "end": 4.88,
+      "text": " better of it."
+    }
+  ]
+}

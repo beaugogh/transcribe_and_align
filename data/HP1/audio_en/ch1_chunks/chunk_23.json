@@ -1,0 +1,73 @@
+{
+  "chunk_file": "chunk_23.wav",
+  "text": " No, he was being stupid. Potter wasn't such an unusual name. He was sure there were lots of people called Potter who had a son called Harry. Come to think of it, he wasn't even sure his nephew was called Harry. He'd never even seen the boy. It might have been Harvey. Or Harold. There was no point in worrying Mrs. Dursley. She always got so upset at any mention of her sister. He didn't blame her if he'd had a sister like that. But all the same, those people in cloaks...",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.06,
+      "text": " No, he was being stupid."
+    },
+    {
+      "id": 1,
+      "start": 3.2399999999999975,
+      "end": 5.66,
+      "text": " Potter wasn't such an unusual name."
+    },
+    {
+      "id": 2,
+      "start": 6.0,
+      "end": 9.86,
+      "text": " He was sure there were lots of people called Potter who had a son called Harry."
+    },
+    {
+      "id": 3,
+      "start": 10.26,
+      "end": 14.68,
+      "text": " Come to think of it, he wasn't even sure his nephew was called Harry."
+    },
+    {
+      "id": 4,
+      "start": 15.18,
+      "end": 16.72,
+      "text": " He'd never even seen the boy."
+    },
+    {
+      "id": 5,
+      "start": 17.0,
+      "end": 18.18,
+      "text": " It might have been Harvey."
+    },
+    {
+      "id": 6,
+      "start": 18.62,
+      "end": 19.48,
+      "text": " Or Harold."
+    },
+    {
+      "id": 7,
+      "start": 20.1,
+      "end": 22.7,
+      "text": " There was no point in worrying Mrs. Dursley."
+    },
+    {
+      "id": 8,
+      "start": 22.78,
+      "end": 26.26,
+      "text": " She always got so upset at any mention of her sister."
+    },
+    {
+      "id": 9,
+      "start": 26.58,
+      "end": 29.28,
+      "text": " He didn't blame her if he'd had a sister like that."
+    },
+    {
+      "id": 10,
+      "start": 30.0,
+      "end": 34.24,
+      "text": " But all the same, those people in cloaks..."
+    }
+  ]
+}

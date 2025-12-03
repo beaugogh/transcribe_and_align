@@ -1,0 +1,31 @@
+{
+  "chunk_file": "chunk_5.wav",
+  "text": " The Dursleys shuddered to think what the neighbours would say if the Potters arrived in the street. The Dursleys knew that the Potters had a small son too, but they had never seen him. This boy was another good reason for keeping the Potters away. They didn't want Dudley mixing with a child like that.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.62,
+      "text": " The Dursleys shuddered to think what the neighbours would say if the Potters arrived in the street."
+    },
+    {
+      "id": 1,
+      "start": 6.18,
+      "end": 11.64,
+      "text": " The Dursleys knew that the Potters had a small son too, but they had never seen him."
+    },
+    {
+      "id": 2,
+      "start": 12.22,
+      "end": 16.38,
+      "text": " This boy was another good reason for keeping the Potters away."
+    },
+    {
+      "id": 3,
+      "start": 17.240000000000002,
+      "end": 20.7,
+      "text": " They didn't want Dudley mixing with a child like that."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "chunk_file": "chunk_64.wav",
+  "text": " Dumbledore and Professor McGonagall bent forward over the bundle of blankets. Inside, just visible, was a baby boy, fast asleep. Under a tuft of jet-black hair over his forehead, they could see a curiously shaped cut, like a bolt of lightning.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.92,
+      "text": " Dumbledore and Professor McGonagall bent forward over the bundle of blankets."
+    },
+    {
+      "id": 1,
+      "start": 4.720000000000001,
+      "end": 9.82,
+      "text": " Inside, just visible, was a baby boy, fast asleep."
+    },
+    {
+      "id": 2,
+      "start": 10.8,
+      "end": 13.78,
+      "text": " Under a tuft of jet-black hair over his forehead,"
+    },
+    {
+      "id": 3,
+      "start": 13.94,
+      "end": 18.38,
+      "text": " they could see a curiously shaped cut, like a bolt of lightning."
+    }
+  ]
+}

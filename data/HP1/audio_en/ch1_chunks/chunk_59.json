@@ -1,0 +1,49 @@
+{
+  "chunk_file": "chunk_59.wav",
+  "text": " You think it wise to trust Hagrid with something as important as this?' \"'I would trust Hagrid with my life,' said Dumbledore. \"'I'm not saying his heart isn't in the right place,' said Professor McGonagall, grudgingly. \"'But you can't pretend he's not careless. He does tend to—' \"'What was that?'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.46,
+      "text": " You think it wise to trust Hagrid with something as important as this?'"
+    },
+    {
+      "id": 1,
+      "start": 4.46,
+      "end": 8.42,
+      "text": " \"'I would trust Hagrid with my life,' said Dumbledore."
+    },
+    {
+      "id": 2,
+      "start": 8.72,
+      "end": 13.12,
+      "text": " \"'I'm not saying his heart isn't in the right place,' said Professor McGonagall,"
+    },
+    {
+      "id": 3,
+      "start": 13.16,
+      "end": 13.8,
+      "text": " grudgingly."
+    },
+    {
+      "id": 4,
+      "start": 13.82,
+      "end": 15.82,
+      "text": " \"'But you can't pretend he's not careless."
+    },
+    {
+      "id": 5,
+      "start": 16.12,
+      "end": 17.36,
+      "text": " He does tend to—'"
+    },
+    {
+      "id": 6,
+      "start": 17.46,
+      "end": 18.3,
+      "text": " \"'What was that?'"
+    }
+  ]
+}

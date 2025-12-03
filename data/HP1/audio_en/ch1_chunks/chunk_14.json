@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_14.wav",
+  "text": " The traffic moved on, and a few minutes later Mr. Dursley arrived in the Grunnings car park, his mind back on drills.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.64,
+      "text": " The traffic moved on, and a few minutes later Mr. Dursley arrived in the Grunnings car park,"
+    },
+    {
+      "id": 1,
+      "start": 5.8,
+      "end": 7.54,
+      "text": " his mind back on drills."
+    }
+  ]
+}

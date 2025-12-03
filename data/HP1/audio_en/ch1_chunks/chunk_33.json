@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_33.wav",
+  "text": " Mr Dursley sat frozen in his armchair, shooting stars all over Britain, owls flying by daylight, mysterious people in cloaks all over the place, and a whisper, a whisper about the potters.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 9.14,
+      "text": " Mr Dursley sat frozen in his armchair, shooting stars all over Britain, owls flying by daylight,"
+    },
+    {
+      "id": 1,
+      "start": 10.02,
+      "end": 17.84,
+      "text": " mysterious people in cloaks all over the place, and a whisper, a whisper about the potters."
+    }
+  ]
+}

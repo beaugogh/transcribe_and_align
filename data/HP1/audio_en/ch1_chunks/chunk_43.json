@@ -1,0 +1,25 @@
+{
+  "chunk_file": "chunk_43.wav",
+  "text": " It didn't so much as quiver when a car door slammed in the next street, nor when two owls swooped overhead. In fact, it was nearly midnight before the cat moved at all.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.22,
+      "text": " It didn't so much as quiver when a car door slammed in the next street,"
+    },
+    {
+      "id": 1,
+      "start": 5.0200000000000005,
+      "end": 7.66,
+      "text": " nor when two owls swooped overhead."
+    },
+    {
+      "id": 2,
+      "start": 8.5,
+      "end": 12.7,
+      "text": " In fact, it was nearly midnight before the cat moved at all."
+    }
+  ]
+}

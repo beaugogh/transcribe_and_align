@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_48.wav",
+  "text": " \"'If anyone looked out of their window now, even beady-eyed Mrs. Dursley, \"'they wouldn't be able to see anything that was happening down on the pavement.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.66,
+      "text": " \"'If anyone looked out of their window now, even beady-eyed Mrs. Dursley,"
+    },
+    {
+      "id": 1,
+      "start": 4.76,
+      "end": 8.86,
+      "text": " \"'they wouldn't be able to see anything that was happening down on the pavement.'"
+    }
+  ]
+}

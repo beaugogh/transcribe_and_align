@@ -1,0 +1,31 @@
+{
+  "chunk_file": "chunk_69.wav",
+  "text": " For a full minute the three of them stood and looked at the little bundle. Hagrid's shoulders shook, Professor McGonagall blinked furiously, and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out. Well, said Dumbledore finally.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.88,
+      "text": " For a full minute the three of them stood and looked at the little bundle."
+    },
+    {
+      "id": 1,
+      "start": 4.88,
+      "end": 9.32,
+      "text": " Hagrid's shoulders shook, Professor McGonagall blinked furiously,"
+    },
+    {
+      "id": 2,
+      "start": 9.44,
+      "end": 15.02,
+      "text": " and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out."
+    },
+    {
+      "id": 3,
+      "start": 17.06,
+      "end": 19.28,
+      "text": " Well, said Dumbledore finally."
+    }
+  ]
+}

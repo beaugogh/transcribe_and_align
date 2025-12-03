@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_18.wav",
+  "text": " The Potters, that's right. That's what I heard. Yes, their son, Harry.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.48,
+      "text": " The Potters, that's right. That's what I heard."
+    },
+    {
+      "id": 1,
+      "start": 2.76,
+      "end": 5.08,
+      "text": " Yes, their son, Harry."
+    }
+  ]
+}

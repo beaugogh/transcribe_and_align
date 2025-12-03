@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_71.wav",
+  "text": " yes said hagrid in a very muffled voice i'll be taking sirius's bike back good-night professor mcgonogill professor dumbledore sir you",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 10.28,
+      "text": " yes said hagrid in a very muffled voice i'll be taking sirius's bike back good-night professor mcgonogill professor dumbledore sir"
+    },
+    {
+      "id": 1,
+      "start": 10.28,
+      "end": 10.48,
+      "text": " you"
+    }
+  ]
+}

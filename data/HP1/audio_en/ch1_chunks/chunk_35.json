@@ -1,0 +1,49 @@
+{
+  "chunk_file": "chunk_35.wav",
+  "text": " It was no good. He'd have to say something to her. He cleared his throat nervously. \"'Betunia, dear, you haven't heard from your sister lately, have you?' As he had expected, Mrs. Dursley looked shocked and angry. After all, they normally pretended she didn't have a sister. \"'No,' she said sharply. \"'Why?'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.56,
+      "text": " It was no good. He'd have to say something to her."
+    },
+    {
+      "id": 1,
+      "start": 4.02,
+      "end": 6.52,
+      "text": " He cleared his throat nervously."
+    },
+    {
+      "id": 2,
+      "start": 9.14,
+      "end": 14.14,
+      "text": " \"'Betunia, dear, you haven't heard from your sister lately, have you?'"
+    },
+    {
+      "id": 3,
+      "start": 14.14,
+      "end": 18.8,
+      "text": " As he had expected, Mrs. Dursley looked shocked and angry."
+    },
+    {
+      "id": 4,
+      "start": 19.1,
+      "end": 22.92,
+      "text": " After all, they normally pretended she didn't have a sister."
+    },
+    {
+      "id": 5,
+      "start": 23.42,
+      "end": 25.2,
+      "text": " \"'No,' she said sharply."
+    },
+    {
+      "id": 6,
+      "start": 25.4,
+      "end": 26.02,
+      "text": " \"'Why?'"
+    }
+  ]
+}

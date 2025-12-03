@@ -1,0 +1,91 @@
+{
+  "chunk_file": "chunk_57.wav",
+  "text": " A letter, repeated Professor McGonagall faintly, sitting back down on the wall. Really, Dumbledore, you think you can explain all this in a letter? These people will never understand him. He'll be famous, a legend. I wouldn't be surprised if today was known as Harry Potter Day in future. There will be books written about Harry. Every child in our world will know his name. Name? Exactly, said Dumbledore, looking very seriously over the top of his half-moon glasses. It would be enough to turn any boy's head. Famous before he can walk and talk. Famous for something he won't even remember. Can't you see how much better off he'll be, growing up away from all that, until he's ready to take it? Professor McGonagall opened her mouth, changed her mind, swallowed, and then said, . . .",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.54,
+      "text": " A letter, repeated Professor McGonagall faintly, sitting back down on the wall."
+    },
+    {
+      "id": 1,
+      "start": 5.16,
+      "end": 10.2,
+      "text": " Really, Dumbledore, you think you can explain all this in a letter?"
+    },
+    {
+      "id": 2,
+      "start": 11.28,
+      "end": 13.6,
+      "text": " These people will never understand him."
+    },
+    {
+      "id": 3,
+      "start": 14.14,
+      "end": 16.76,
+      "text": " He'll be famous, a legend."
+    },
+    {
+      "id": 4,
+      "start": 17.12,
+      "end": 21.52,
+      "text": " I wouldn't be surprised if today was known as Harry Potter Day in future."
+    },
+    {
+      "id": 5,
+      "start": 21.82,
+      "end": 23.92,
+      "text": " There will be books written about Harry."
+    },
+    {
+      "id": 6,
+      "start": 24.1,
+      "end": 27.6,
+      "text": " Every child in our world will know his name."
+    },
+    {
+      "id": 7,
+      "start": 27.6,
+      "end": 33.86,
+      "text": " Name? Exactly, said Dumbledore, looking very seriously over the top of his half-moon glasses."
+    },
+    {
+      "id": 8,
+      "start": 34.58,
+      "end": 37.06,
+      "text": " It would be enough to turn any boy's head."
+    },
+    {
+      "id": 9,
+      "start": 38.02,
+      "end": 40.04,
+      "text": " Famous before he can walk and talk."
+    },
+    {
+      "id": 10,
+      "start": 40.46,
+      "end": 42.36,
+      "text": " Famous for something he won't even remember."
+    },
+    {
+      "id": 11,
+      "start": 43.16,
+      "end": 48.92,
+      "text": " Can't you see how much better off he'll be, growing up away from all that, until he's ready to take it?"
+    },
+    {
+      "id": 12,
+      "start": 49.80000000000001,
+      "end": 55.18,
+      "text": " Professor McGonagall opened her mouth, changed her mind, swallowed, and then said,"
+    },
+    {
+      "id": 13,
+      "start": 55.26,
+      "end": 56.22,
+      "text": " . . ."
+    }
+  ]
+}

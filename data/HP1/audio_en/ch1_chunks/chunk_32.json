@@ -1,0 +1,133 @@
+{
+  "chunk_file": "chunk_32.wav",
+  "text": " \"'And finally, bird-watchers everywhere have reported \"'that the nation's owls have been behaving very unusually today. \"'Although owls normally hunt at night and are hardly ever seen in daylight, \"'there have been hundreds of sightings of these birds \"'flying in every direction since sunrise. \"'Experts are unable to explain why the owls \"'have suddenly changed their sleeping pattern.' \"'The newsreader allowed himself a grin. \"'Most mysterious. \"'And now over to Jim McGuffin with the weather. \"'Going to be any more showers of owls tonight, Jim?' \"'Well, Ted,' said the weatherman, \"'I don't know about that, but it's not only the owls \"'that have been acting oddly today. \"'Viewers as far apart as Kent, Yorkshire and Dundee \"'have been phoning in to tell me that instead of the rain I promised yesterday, \"'they've had a downpour of shooting stars. \"'Perhaps people have been celebrating bonfire night early. \"'It's not until next week, folks, but I can promise a wet night tonight.' \"'I'm going to be out of here.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.64,
+      "text": " \"'And finally, bird-watchers everywhere have reported"
+    },
+    {
+      "id": 1,
+      "start": 3.64,
+      "end": 7.34,
+      "text": " \"'that the nation's owls have been behaving very unusually today."
+    },
+    {
+      "id": 2,
+      "start": 7.9,
+      "end": 11.9,
+      "text": " \"'Although owls normally hunt at night and are hardly ever seen in daylight,"
+    },
+    {
+      "id": 3,
+      "start": 12.14,
+      "end": 14.6,
+      "text": " \"'there have been hundreds of sightings of these birds"
+    },
+    {
+      "id": 4,
+      "start": 14.6,
+      "end": 16.9,
+      "text": " \"'flying in every direction since sunrise."
+    },
+    {
+      "id": 5,
+      "start": 17.84,
+      "end": 20.66,
+      "text": " \"'Experts are unable to explain why the owls"
+    },
+    {
+      "id": 6,
+      "start": 20.66,
+      "end": 23.0,
+      "text": " \"'have suddenly changed their sleeping pattern.'"
+    },
+    {
+      "id": 7,
+      "start": 23.0,
+      "end": 25.3,
+      "text": " \"'The newsreader allowed himself a grin."
+    },
+    {
+      "id": 8,
+      "start": 25.84,
+      "end": 27.1,
+      "text": " \"'Most mysterious."
+    },
+    {
+      "id": 9,
+      "start": 27.1,
+      "end": 30.02,
+      "text": " \"'And now over to Jim McGuffin with the weather."
+    },
+    {
+      "id": 10,
+      "start": 30.18,
+      "end": 32.88,
+      "text": " \"'Going to be any more showers of owls tonight, Jim?'"
+    },
+    {
+      "id": 11,
+      "start": 33.38,
+      "end": 35.18,
+      "text": " \"'Well, Ted,' said the weatherman,"
+    },
+    {
+      "id": 12,
+      "start": 35.3,
+      "end": 38.0,
+      "text": " \"'I don't know about that, but it's not only the owls"
+    },
+    {
+      "id": 13,
+      "start": 38.0,
+      "end": 39.1,
+      "text": " \"'that have been acting oddly today."
+    },
+    {
+      "id": 14,
+      "start": 39.88,
+      "end": 42.94,
+      "text": " \"'Viewers as far apart as Kent, Yorkshire and Dundee"
+    },
+    {
+      "id": 15,
+      "start": 42.94,
+      "end": 46.48,
+      "text": " \"'have been phoning in to tell me that instead of the rain I promised yesterday,"
+    },
+    {
+      "id": 16,
+      "start": 46.64,
+      "end": 49.06,
+      "text": " \"'they've had a downpour of shooting stars."
+    },
+    {
+      "id": 17,
+      "start": 49.88,
+      "end": 52.58,
+      "text": " \"'Perhaps people have been celebrating bonfire night early."
+    },
+    {
+      "id": 18,
+      "start": 52.68,
+      "end": 57.0,
+      "text": " \"'It's not until next week, folks, but I can promise a wet night tonight.'"
+    },
+    {
+      "id": 19,
+      "start": 57.0,
+      "end": 58.06,
+      "text": " \"'I'm going to be out of here."
+    },
+    {
+      "id": 20,
+      "start": 58.06,
+      "end": 58.06,
+      "text": ""
+    }
+  ]
+}

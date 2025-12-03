@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_6.wav",
+  "text": " When Mr and Mrs Dursley woke up on the dull, grey Tuesday our story starts, there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country. Mr Dursley hummed as he picked out his most boring tie for work, and Mrs Dursley gossiped away happily as she wrestled a screaming Dudley into his high chair.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 14.44,
+      "text": " When Mr and Mrs Dursley woke up on the dull, grey Tuesday our story starts, there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country."
+    },
+    {
+      "id": 1,
+      "start": 15.2,
+      "end": 26.68,
+      "text": " Mr Dursley hummed as he picked out his most boring tie for work, and Mrs Dursley gossiped away happily as she wrestled a screaming Dudley into his high chair."
+    }
+  ]
+}

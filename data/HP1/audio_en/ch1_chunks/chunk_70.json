@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_70.wav",
+  "text": " That's that. We've no business staying here. We may as well go and join the celebrations.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.52,
+      "text": " That's that. We've no business staying here."
+    },
+    {
+      "id": 1,
+      "start": 3.2800000000000007,
+      "end": 5.64,
+      "text": " We may as well go and join the celebrations."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_9.wav",
+  "text": " it was on the corner of the street that he noticed the first sign of something peculiar a cat reading a map for a second mr dursley didn't realize what he had seen then he jerked his head around to look again btm",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 14.98,
+      "text": " it was on the corner of the street that he noticed the first sign of something peculiar a cat reading a map for a second mr dursley didn't realize what he had seen then he jerked his head around to look again"
+    },
+    {
+      "id": 1,
+      "start": 14.98,
+      "end": 16.14,
+      "text": " btm"
+    }
+  ]
+}

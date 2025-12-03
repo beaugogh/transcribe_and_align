@@ -1,0 +1,49 @@
+{
+  "chunk_file": "chunk_27.wav",
+  "text": " \"'As he pulled into the driveway of No. 4, \"'the first thing he saw, and it didn't improve his mood, \"'was the tabby cat he had spotted that morning. \"'It was now sitting on his garden wall. \"'He was sure it was the same one. \"'It had the same markings around its eyes. \"'Shoo!' said Mr Dursley, loudly.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.5,
+      "text": " \"'As he pulled into the driveway of No. 4,"
+    },
+    {
+      "id": 1,
+      "start": 2.6,
+      "end": 5.84,
+      "text": " \"'the first thing he saw, and it didn't improve his mood,"
+    },
+    {
+      "id": 2,
+      "start": 6.08,
+      "end": 8.86,
+      "text": " \"'was the tabby cat he had spotted that morning."
+    },
+    {
+      "id": 3,
+      "start": 9.02,
+      "end": 11.56,
+      "text": " \"'It was now sitting on his garden wall."
+    },
+    {
+      "id": 4,
+      "start": 11.86,
+      "end": 14.18,
+      "text": " \"'He was sure it was the same one."
+    },
+    {
+      "id": 5,
+      "start": 14.44,
+      "end": 17.1,
+      "text": " \"'It had the same markings around its eyes."
+    },
+    {
+      "id": 6,
+      "start": 18.080000000000002,
+      "end": 20.26,
+      "text": " \"'Shoo!' said Mr Dursley, loudly."
+    }
+  ]
+}

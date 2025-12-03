@@ -1,0 +1,37 @@
+{
+  "chunk_file": "chunk_3.wav",
+  "text": " Mr Dursley was the director of a firm called Grunnings, which made drills. He was a big, beefy man, with hardly any neck, although he did have a very large moustache. Mrs Dursley was thin and blonde, and had nearly twice the usual amount of neck, which came in very useful, as she spent so much of her time craning over garden fences, spying on the neighbours. The Dursleys had a small son called Dudley, and in their opinion there was no finer boy anywhere.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.9,
+      "text": " Mr Dursley was the director of a firm called Grunnings, which made drills."
+    },
+    {
+      "id": 1,
+      "start": 5.4,
+      "end": 11.84,
+      "text": " He was a big, beefy man, with hardly any neck, although he did have a very large moustache."
+    },
+    {
+      "id": 2,
+      "start": 12.18,
+      "end": 16.88,
+      "text": " Mrs Dursley was thin and blonde, and had nearly twice the usual amount of neck,"
+    },
+    {
+      "id": 3,
+      "start": 17.02,
+      "end": 24.02,
+      "text": " which came in very useful, as she spent so much of her time craning over garden fences, spying on the neighbours."
+    },
+    {
+      "id": 4,
+      "start": 24.02,
+      "end": 32.38,
+      "text": " The Dursleys had a small son called Dudley, and in their opinion there was no finer boy anywhere."
+    }
+  ]
+}

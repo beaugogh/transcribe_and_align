@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_19.wav",
+  "text": " Mr. Dursley stopped dead. Fear flooded him.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.4,
+      "text": " Mr. Dursley stopped dead."
+    },
+    {
+      "id": 1,
+      "start": 3.74,
+      "end": 5.18,
+      "text": " Fear flooded him."
+    }
+  ]
+}

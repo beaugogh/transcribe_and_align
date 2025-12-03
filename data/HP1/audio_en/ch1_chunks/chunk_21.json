@@ -1,0 +1,31 @@
+{
+  "chunk_file": "chunk_21.wav",
+  "text": " He dashed back across the road, hurried up to his office, snapped at his secretary not to disturb him, seized his telephone, and had almost finished dialling his home number when he changed his mind.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.82,
+      "text": " He dashed back across the road, hurried up to his office,"
+    },
+    {
+      "id": 1,
+      "start": 2.94,
+      "end": 5.14,
+      "text": " snapped at his secretary not to disturb him,"
+    },
+    {
+      "id": 2,
+      "start": 5.26,
+      "end": 9.08,
+      "text": " seized his telephone, and had almost finished dialling his home number"
+    },
+    {
+      "id": 3,
+      "start": 9.08,
+      "end": 11.18,
+      "text": " when he changed his mind."
+    }
+  ]
+}

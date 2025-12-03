@@ -1,0 +1,43 @@
+{
+  "chunk_file": "chunk_74.wav",
+  "text": " Dumbledore turned and walked back down the street. On the corner he stopped and took out the silver put-outer. He clicked it once, and twelve balls of light sped back to their street lamps, so that Privet Drive glowed suddenly orange, and he could make out a tabby cat slinking around the corner at the other end of the street. He could just see the bundle of blankets on the step of No. 4.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.74,
+      "text": " Dumbledore turned and walked back down the street."
+    },
+    {
+      "id": 1,
+      "start": 3.2,
+      "end": 7.14,
+      "text": " On the corner he stopped and took out the silver put-outer."
+    },
+    {
+      "id": 2,
+      "start": 7.42,
+      "end": 12.9,
+      "text": " He clicked it once, and twelve balls of light sped back to their street lamps,"
+    },
+    {
+      "id": 3,
+      "start": 13.04,
+      "end": 16.02,
+      "text": " so that Privet Drive glowed suddenly orange,"
+    },
+    {
+      "id": 4,
+      "start": 16.92,
+      "end": 21.18,
+      "text": " and he could make out a tabby cat slinking around the corner at the other end of the street."
+    },
+    {
+      "id": 5,
+      "start": 21.74,
+      "end": 26.16,
+      "text": " He could just see the bundle of blankets on the step of No. 4."
+    }
+  ]
+}

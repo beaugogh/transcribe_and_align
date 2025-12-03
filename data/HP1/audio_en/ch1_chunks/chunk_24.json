@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_24.wav",
+  "text": " he found it a lot harder to concentrate on drills that afternoon and when he left the building at five o'clock he was still so worried that he walked straight into someone just outside the door you",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 11.92,
+      "text": " he found it a lot harder to concentrate on drills that afternoon and when he left the building at five o'clock he was still so worried that he walked straight into someone just outside the door"
+    },
+    {
+      "id": 1,
+      "start": 11.92,
+      "end": 12.46,
+      "text": " you"
+    }
+  ]
+}

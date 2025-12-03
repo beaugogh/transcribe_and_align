@@ -1,0 +1,85 @@
+{
+  "chunk_file": "chunk_55.wav",
+  "text": " \"'Professor McGonagall pulled out a lace handkerchief \"'and dabbed at her eyes beneath her spectacles. \"'Dumbledore gave a great sniff \"'as he took a golden watch from his pocket and examined it. \"'It was a very odd watch. \"'It had twelve hands, but no numbers. \"'Instead, little planets were moving around the edge. \"'It must have made sense to Dumbledore, though, \"'because he put it back in his pocket and said, \"'Hagrid's late. \"'It—I suppose it was he who told you I'd be here, by the way.' \"'Yes,' said Professor McGonagall. \"'And I don't suppose you're going to tell me why you're here, of all places.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.92,
+      "text": " \"'Professor McGonagall pulled out a lace handkerchief"
+    },
+    {
+      "id": 1,
+      "start": 2.92,
+      "end": 5.54,
+      "text": " \"'and dabbed at her eyes beneath her spectacles."
+    },
+    {
+      "id": 2,
+      "start": 6.58,
+      "end": 8.02,
+      "text": " \"'Dumbledore gave a great sniff"
+    },
+    {
+      "id": 3,
+      "start": 8.02,
+      "end": 11.12,
+      "text": " \"'as he took a golden watch from his pocket and examined it."
+    },
+    {
+      "id": 4,
+      "start": 11.64,
+      "end": 13.22,
+      "text": " \"'It was a very odd watch."
+    },
+    {
+      "id": 5,
+      "start": 13.44,
+      "end": 16.7,
+      "text": " \"'It had twelve hands, but no numbers."
+    },
+    {
+      "id": 6,
+      "start": 17.38,
+      "end": 20.68,
+      "text": " \"'Instead, little planets were moving around the edge."
+    },
+    {
+      "id": 7,
+      "start": 20.92,
+      "end": 23.02,
+      "text": " \"'It must have made sense to Dumbledore, though,"
+    },
+    {
+      "id": 8,
+      "start": 23.06,
+      "end": 25.04,
+      "text": " \"'because he put it back in his pocket and said,"
+    },
+    {
+      "id": 9,
+      "start": 26.02,
+      "end": 26.7,
+      "text": " \"'Hagrid's late."
+    },
+    {
+      "id": 10,
+      "start": 26.7,
+      "end": 30.08,
+      "text": " \"'It—I suppose it was he who told you I'd be here, by the way.'"
+    },
+    {
+      "id": 11,
+      "start": 31.28,
+      "end": 32.94,
+      "text": " \"'Yes,' said Professor McGonagall."
+    },
+    {
+      "id": 12,
+      "start": 33.22,
+      "end": 36.86,
+      "text": " \"'And I don't suppose you're going to tell me why you're here, of all places.'"
+    }
+  ]
+}

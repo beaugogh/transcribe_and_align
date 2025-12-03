@@ -1,0 +1,55 @@
+{
+  "chunk_file": "chunk_41.wav",
+  "text": " The Dursleys got into bed. Mrs. Dursley fell asleep quickly, but Mr. Dursley lay awake, turning it all over in his mind. His last comforting thought before he fell asleep was that even if the Potters were involved, there was no reason for them to come near him and Mrs. Dursley. The Potters knew very well what he and Petunia thought about them and their kind. He couldn't see how he and Petunia could get mixed up in anything that might be going on. He yawned and turned over. It couldn't affect them. How very wrong he was!",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 1.38,
+      "text": " The Dursleys got into bed."
+    },
+    {
+      "id": 1,
+      "start": 1.9,
+      "end": 7.98,
+      "text": " Mrs. Dursley fell asleep quickly, but Mr. Dursley lay awake, turning it all over in his mind."
+    },
+    {
+      "id": 2,
+      "start": 8.620000000000001,
+      "end": 14.52,
+      "text": " His last comforting thought before he fell asleep was that even if the Potters were involved,"
+    },
+    {
+      "id": 3,
+      "start": 15.46,
+      "end": 18.4,
+      "text": " there was no reason for them to come near him and Mrs. Dursley."
+    },
+    {
+      "id": 4,
+      "start": 18.74,
+      "end": 23.7,
+      "text": " The Potters knew very well what he and Petunia thought about them and their kind."
+    },
+    {
+      "id": 5,
+      "start": 24.34,
+      "end": 29.12,
+      "text": " He couldn't see how he and Petunia could get mixed up in anything that might be going on."
+    },
+    {
+      "id": 6,
+      "start": 30.0,
+      "end": 33.84,
+      "text": " He yawned and turned over. It couldn't affect them."
+    },
+    {
+      "id": 7,
+      "start": 35.68,
+      "end": 37.74,
+      "text": " How very wrong he was!"
+    }
+  ]
+}

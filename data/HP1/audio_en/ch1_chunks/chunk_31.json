@@ -1,0 +1,25 @@
+{
+  "chunk_file": "chunk_31.wav",
+  "text": " Mr Dursley tried to act normally. When Dudley had been put to bed, he went into the living-room in time to catch the last report on the evening news.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.34,
+      "text": " Mr Dursley tried to act normally."
+    },
+    {
+      "id": 1,
+      "start": 2.9200000000000004,
+      "end": 4.6,
+      "text": " When Dudley had been put to bed,"
+    },
+    {
+      "id": 2,
+      "start": 4.74,
+      "end": 9.04,
+      "text": " he went into the living-room in time to catch the last report on the evening news."
+    }
+  ]
+}

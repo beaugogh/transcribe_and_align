@@ -1,0 +1,271 @@
+{
+  "chunk_file": "chunk_49.wav",
+  "text": " Dumbledore slipped the put-outer back inside his cloak, and set off down the street towards Number Four, where he sat down on the wall, next to the cat. He didn't look at it, but after a moment he spoke to it. \"'Fancy seeing you here, Professor McGonagall.' He turned to smile at the tabby, but it had gone. Instead he was smiling at a rather severe-looking woman, who was wearing square glasses exactly the shape of the markings the cat had had around its eyes. She, too, was wearing a cloak, an emerald one. Her black hair was drawn into a tight bun. She looked distinctly ruffled. \"'How did you know it was me?' she asked. \"'My dear Professor, I have never seen a cat sit so stiffly.' \"'You'd be stiff if you'd been sitting on a brick wall all day,' said Professor McGonagall. \"'All day? When you could have been stiff?' \"'Celebrating? I must have passed a dozen feasts and parties on my way here.' Professor McGonagall sniffed angrily. \"'Oh, yes. Everyone's celebrating all right,' she said impatiently. \"'You'd think they'd be a bit more careful. But no, even the muggles have noticed something's going on. It was on their news.' She jerked her head back at the Dursley's dark living-room window. \"'I heard it. Flocks of owls shooting stars. Well, they're not completely stupid.' They were bound to notice something. Shooting stars down in Kent? I bet that was Deedless Diggle. He never had much sense.' \"'Oh, you can't blame them,' said Dumbledore, gently. \"'We've had precious little to celebrate for eleven years.' \"'I know that,' said Professor McGonagall irritably. \"'But that's no reason to lose our heads. People are being downright careless, out on the streets in broad daylight, not even dressed in muggle clothes. They're swapping rumours.' She threw a sharp, sideways glance at Dumbledore here, as though hoping he was going to tell her something. But he didn't. So she went on. \"'A fine thing it would be if, on the very day you-know-who seems to have disappeared at last, the muggles found out about us all.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.32,
+      "text": " Dumbledore slipped the put-outer back inside his cloak, and set off down the street towards"
+    },
+    {
+      "id": 1,
+      "start": 5.32,
+      "end": 9.42,
+      "text": " Number Four, where he sat down on the wall, next to the cat."
+    },
+    {
+      "id": 2,
+      "start": 10.24,
+      "end": 14.1,
+      "text": " He didn't look at it, but after a moment he spoke to it."
+    },
+    {
+      "id": 3,
+      "start": 15.280000000000006,
+      "end": 17.84,
+      "text": " \"'Fancy seeing you here, Professor McGonagall.'"
+    },
+    {
+      "id": 4,
+      "start": 17.84,
+      "end": 21.54,
+      "text": " He turned to smile at the tabby, but it had gone."
+    },
+    {
+      "id": 5,
+      "start": 22.140000000000004,
+      "end": 28.36,
+      "text": " Instead he was smiling at a rather severe-looking woman, who was wearing square glasses exactly"
+    },
+    {
+      "id": 6,
+      "start": 28.36,
+      "end": 31.6,
+      "text": " the shape of the markings the cat had had around its eyes."
+    },
+    {
+      "id": 7,
+      "start": 32.08,
+      "end": 35.42,
+      "text": " She, too, was wearing a cloak, an emerald one."
+    },
+    {
+      "id": 8,
+      "start": 35.74,
+      "end": 38.78,
+      "text": " Her black hair was drawn into a tight bun."
+    },
+    {
+      "id": 9,
+      "start": 39.12,
+      "end": 41.2,
+      "text": " She looked distinctly ruffled."
+    },
+    {
+      "id": 10,
+      "start": 42.46,
+      "end": 45.08,
+      "text": " \"'How did you know it was me?' she asked."
+    },
+    {
+      "id": 11,
+      "start": 45.66,
+      "end": 50.72,
+      "text": " \"'My dear Professor, I have never seen a cat sit so stiffly.'"
+    },
+    {
+      "id": 12,
+      "start": 50.72,
+      "end": 55.48,
+      "text": " \"'You'd be stiff if you'd been sitting on a brick wall all day,' said Professor McGonagall."
+    },
+    {
+      "id": 13,
+      "start": 55.86,
+      "end": 56.8,
+      "text": " \"'All day?"
+    },
+    {
+      "id": 14,
+      "start": 57.12,
+      "end": 58.34,
+      "text": " When you could have been stiff?'"
+    },
+    {
+      "id": 15,
+      "start": 58.36,
+      "end": 58.98,
+      "text": " \"'Celebrating?"
+    },
+    {
+      "id": 16,
+      "start": 59.16,
+      "end": 63.06,
+      "text": " I must have passed a dozen feasts and parties on my way here.'"
+    },
+    {
+      "id": 17,
+      "start": 63.64,
+      "end": 65.76,
+      "text": " Professor McGonagall sniffed angrily."
+    },
+    {
+      "id": 18,
+      "start": 65.8,
+      "end": 66.76,
+      "text": " \"'Oh, yes."
+    },
+    {
+      "id": 19,
+      "start": 67.22,
+      "end": 70.1,
+      "text": " Everyone's celebrating all right,' she said impatiently."
+    },
+    {
+      "id": 20,
+      "start": 70.38,
+      "end": 72.38,
+      "text": " \"'You'd think they'd be a bit more careful."
+    },
+    {
+      "id": 21,
+      "start": 72.5,
+      "end": 75.88,
+      "text": " But no, even the muggles have noticed something's going on."
+    },
+    {
+      "id": 22,
+      "start": 76.02,
+      "end": 78.12,
+      "text": " It was on their news.'"
+    },
+    {
+      "id": 23,
+      "start": 78.8,
+      "end": 82.34,
+      "text": " She jerked her head back at the Dursley's dark living-room window."
+    },
+    {
+      "id": 24,
+      "start": 82.54,
+      "end": 83.46,
+      "text": " \"'I heard it."
+    },
+    {
+      "id": 25,
+      "start": 83.78,
+      "end": 85.84,
+      "text": " Flocks of owls shooting stars."
+    },
+    {
+      "id": 26,
+      "start": 86.1,
+      "end": 88.28,
+      "text": " Well, they're not completely stupid.'"
+    },
+    {
+      "id": 27,
+      "start": 88.36,
+      "end": 90.5,
+      "text": " They were bound to notice something."
+    },
+    {
+      "id": 28,
+      "start": 90.96,
+      "end": 93.28,
+      "text": " Shooting stars down in Kent?"
+    },
+    {
+      "id": 29,
+      "start": 93.76,
+      "end": 95.78,
+      "text": " I bet that was Deedless Diggle."
+    },
+    {
+      "id": 30,
+      "start": 95.96,
+      "end": 97.34,
+      "text": " He never had much sense.'"
+    },
+    {
+      "id": 31,
+      "start": 97.34,
+      "end": 101.48,
+      "text": " \"'Oh, you can't blame them,' said Dumbledore, gently."
+    },
+    {
+      "id": 32,
+      "start": 101.9,
+      "end": 105.46,
+      "text": " \"'We've had precious little to celebrate for eleven years.'"
+    },
+    {
+      "id": 33,
+      "start": 105.46,
+      "end": 109.22,
+      "text": " \"'I know that,' said Professor McGonagall irritably."
+    },
+    {
+      "id": 34,
+      "start": 109.3,
+      "end": 111.6,
+      "text": " \"'But that's no reason to lose our heads."
+    },
+    {
+      "id": 35,
+      "start": 111.96,
+      "end": 117.0,
+      "text": " People are being downright careless, out on the streets in broad daylight, not even dressed"
+    },
+    {
+      "id": 36,
+      "start": 117.0,
+      "end": 117.88,
+      "text": " in muggle clothes."
+    },
+    {
+      "id": 37,
+      "start": 118.36,
+      "end": 119.78,
+      "text": " They're swapping rumours.'"
+    },
+    {
+      "id": 38,
+      "start": 119.78,
+      "end": 125.8,
+      "text": " She threw a sharp, sideways glance at Dumbledore here, as though hoping he was going to tell"
+    },
+    {
+      "id": 39,
+      "start": 125.8,
+      "end": 126.36,
+      "text": " her something."
+    },
+    {
+      "id": 40,
+      "start": 126.52,
+      "end": 127.64,
+      "text": " But he didn't."
+    },
+    {
+      "id": 41,
+      "start": 127.74,
+      "end": 128.92,
+      "text": " So she went on."
+    },
+    {
+      "id": 42,
+      "start": 129.06,
+      "end": 135.64,
+      "text": " \"'A fine thing it would be if, on the very day you-know-who seems to have disappeared"
+    },
+    {
+      "id": 43,
+      "start": 135.64,
+      "end": 138.44,
+      "text": " at last, the muggles found out about us all.'"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_2.wav",
+  "text": " mr and mrs dursley of number four privet drive were proud to say that they were perfectly normal thank you very much they were the last people you'd expect to be involved in anything strange or mysterious because they just didn't hold with such nonsense you",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 16.92,
+      "text": " mr and mrs dursley of number four privet drive were proud to say that they were perfectly normal thank you very much they were the last people you'd expect to be involved in anything strange or mysterious because they just didn't hold with such nonsense"
+    },
+    {
+      "id": 1,
+      "start": 16.92,
+      "end": 17.4,
+      "text": " you"
+    }
+  ]
+}

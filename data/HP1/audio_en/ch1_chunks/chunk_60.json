@@ -1,0 +1,31 @@
+{
+  "chunk_file": "chunk_60.wav",
+  "text": " A low rumbling sound had broken the silence around them. It grew steadily louder as they looked up and down the street for some sign of a headlight. It swelled to a roar as they both looked up at the sky, and a huge motor-bike fell out of the air and landed on the road in front of them.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " A low rumbling sound had broken the silence around them."
+    },
+    {
+      "id": 1,
+      "start": 3.1,
+      "end": 8.32,
+      "text": " It grew steadily louder as they looked up and down the street for some sign of a headlight."
+    },
+    {
+      "id": 2,
+      "start": 8.5,
+      "end": 11.88,
+      "text": " It swelled to a roar as they both looked up at the sky,"
+    },
+    {
+      "id": 3,
+      "start": 11.96,
+      "end": 17.62,
+      "text": " and a huge motor-bike fell out of the air and landed on the road in front of them."
+    }
+  ]
+}

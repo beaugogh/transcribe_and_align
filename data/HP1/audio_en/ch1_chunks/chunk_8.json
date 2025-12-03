@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_8.wav",
+  "text": " At half-past eight, Mr Dursley picked up his briefcase, pecked Mrs Dursley on the cheek, and tried to kiss Dudley goodbye, but missed, because Dudley was now having a tantrum and throwing his cereal at the walls. \"'Oh, little tyke!' chortled Mr Dursley as he left the house. He got into his car and backed out of No. 4's drive.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 12.9,
+      "text": " At half-past eight, Mr Dursley picked up his briefcase, pecked Mrs Dursley on the cheek, and tried to kiss Dudley goodbye, but missed, because Dudley was now having a tantrum and throwing his cereal at the walls."
+    },
+    {
+      "id": 1,
+      "start": 13.62,
+      "end": 21.98,
+      "text": " \"'Oh, little tyke!' chortled Mr Dursley as he left the house. He got into his car and backed out of No. 4's drive."
+    }
+  ]
+}

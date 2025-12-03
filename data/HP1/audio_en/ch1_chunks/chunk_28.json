@@ -1,0 +1,31 @@
+{
+  "chunk_file": "chunk_28.wav",
+  "text": " The cat didn't move. It just gave him a stern look. Was this normal cat behaviour? Mr Dursley wondered.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 1.44,
+      "text": " The cat didn't move."
+    },
+    {
+      "id": 1,
+      "start": 1.7,
+      "end": 3.76,
+      "text": " It just gave him a stern look."
+    },
+    {
+      "id": 2,
+      "start": 4.52,
+      "end": 6.74,
+      "text": " Was this normal cat behaviour?"
+    },
+    {
+      "id": 3,
+      "start": 6.9,
+      "end": 8.24,
+      "text": " Mr Dursley wondered."
+    }
+  ]
+}

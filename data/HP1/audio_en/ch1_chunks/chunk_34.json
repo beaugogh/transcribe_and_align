@@ -1,0 +1,13 @@
+{
+  "chunk_file": "chunk_34.wav",
+  "text": " Mrs Dursley came into the living-room, carrying two cups of tea.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.06,
+      "text": " Mrs Dursley came into the living-room, carrying two cups of tea."
+    }
+  ]
+}

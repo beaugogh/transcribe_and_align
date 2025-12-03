@@ -1,0 +1,61 @@
+{
+  "chunk_file": "chunk_53.wav",
+  "text": " Professor McGonagall's voice trembled as she went on. That's not all. They're saying he tried to kill the potter's son, Harry. But he couldn't. He couldn't kill that little boy. No one knows why or how, but they're saying that when he couldn't kill Harry Potter, Voldemort's power somehow broke, and that's why he's gone.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Professor McGonagall's voice trembled as she went on."
+    },
+    {
+      "id": 1,
+      "start": 3.64,
+      "end": 4.72,
+      "text": " That's not all."
+    },
+    {
+      "id": 2,
+      "start": 5.36,
+      "end": 9.34,
+      "text": " They're saying he tried to kill the potter's son, Harry."
+    },
+    {
+      "id": 3,
+      "start": 9.64,
+      "end": 11.66,
+      "text": " But he couldn't."
+    },
+    {
+      "id": 4,
+      "start": 12.34,
+      "end": 14.34,
+      "text": " He couldn't kill that little boy."
+    },
+    {
+      "id": 5,
+      "start": 15.18,
+      "end": 16.88,
+      "text": " No one knows why or how,"
+    },
+    {
+      "id": 6,
+      "start": 17.14,
+      "end": 21.12,
+      "text": " but they're saying that when he couldn't kill Harry Potter,"
+    },
+    {
+      "id": 7,
+      "start": 21.96,
+      "end": 24.12,
+      "text": " Voldemort's power somehow broke,"
+    },
+    {
+      "id": 8,
+      "start": 24.34,
+      "end": 25.64,
+      "text": " and that's why he's gone."
+    }
+  ]
+}

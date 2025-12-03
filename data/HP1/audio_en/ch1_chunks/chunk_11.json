@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_11.wav",
+  "text": " \"'As he drove towards town he thought of nothing \"'except a large order of drills he was hoping to get that day.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.4,
+      "text": " \"'As he drove towards town he thought of nothing"
+    },
+    {
+      "id": 1,
+      "start": 2.4,
+      "end": 6.08,
+      "text": " \"'except a large order of drills he was hoping to get that day.'"
+    }
+  ]
+}

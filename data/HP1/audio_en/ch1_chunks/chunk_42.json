@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_42.wav",
+  "text": " mr dursley might have been drifting into an uneasy sleep but the cat on the wall outside was showing no sign of sleepiness it was sitting as still as a statue its eyes fixed unblinkingly on the far corner of privet drive you",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 17.34,
+      "text": " mr dursley might have been drifting into an uneasy sleep but the cat on the wall outside was showing no sign of sleepiness it was sitting as still as a statue its eyes fixed unblinkingly on the far corner of privet drive"
+    },
+    {
+      "id": 1,
+      "start": 17.34,
+      "end": 17.88,
+      "text": " you"
+    }
+  ]
+}

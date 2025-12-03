@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_1.wav",
+  "text": " Harry Potter and the Philosopher's Stone by J. K. Rowling Chapter 1 The Boy Who Lived",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.84,
+      "text": " Harry Potter and the Philosopher's Stone by J. K. Rowling"
+    },
+    {
+      "id": 1,
+      "start": 6.58,
+      "end": 10.52,
+      "text": " Chapter 1 The Boy Who Lived"
+    }
+  ]
+}

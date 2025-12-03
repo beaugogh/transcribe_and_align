@@ -1,0 +1,37 @@
+{
+  "chunk_file": "chunk_63.wav",
+  "text": " I've got him, sir. No problems, were there? No, sir. House was almost destroyed, but I got him out all right before the muggles started swarming round. He fell asleep as we was flying over Bristol.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 0.84,
+      "text": " I've got him, sir."
+    },
+    {
+      "id": 1,
+      "start": 1.54,
+      "end": 2.78,
+      "text": " No problems, were there?"
+    },
+    {
+      "id": 2,
+      "start": 3.42,
+      "end": 3.98,
+      "text": " No, sir."
+    },
+    {
+      "id": 3,
+      "start": 4.38,
+      "end": 8.6,
+      "text": " House was almost destroyed, but I got him out all right before the muggles started swarming round."
+    },
+    {
+      "id": 4,
+      "start": 9.16,
+      "end": 11.4,
+      "text": " He fell asleep as we was flying over Bristol."
+    }
+  ]
+}

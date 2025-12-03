@@ -1,0 +1,25 @@
+{
+  "chunk_file": "chunk_65.wav",
+  "text": " \"'Is that where?' whispered Professor McGonagall. \"'Yes,' said Dumbledore. \"'He'll have that scar for ever.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.2,
+      "text": " \"'Is that where?' whispered Professor McGonagall."
+    },
+    {
+      "id": 1,
+      "start": 4.28,
+      "end": 5.84,
+      "text": " \"'Yes,' said Dumbledore."
+    },
+    {
+      "id": 2,
+      "start": 5.94,
+      "end": 8.58,
+      "text": " \"'He'll have that scar for ever.'"
+    }
+  ]
+}

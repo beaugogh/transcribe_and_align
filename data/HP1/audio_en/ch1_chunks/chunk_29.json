@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_29.wav",
+  "text": " Trying to pull himself together, he let himself into the house. He was still determined not to mention anything to his wife.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.38,
+      "text": " Trying to pull himself together, he let himself into the house."
+    },
+    {
+      "id": 1,
+      "start": 3.76,
+      "end": 7.2,
+      "text": " He was still determined not to mention anything to his wife."
+    }
+  ]
+}

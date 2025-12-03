@@ -1,0 +1,79 @@
+{
+  "chunk_file": "chunk_10.wav",
+  "text": " There was a tabby cat standing on the corner of Privet Drive, but there wasn't a map in sight. What could he have been thinking of? It must have been a trick of the light. Mr Dursley blinked and stared at the cat. It stared back. As Mr Dursley drove around the corner and up the road, he watched the cat in his mirror. It was now reading the sign that said Privet Drive. No, looking at the sign. Cats couldn't read maps or signs. Mr Dursley gave himself a little shake and put the cat out of his mind.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.32,
+      "text": " There was a tabby cat standing on the corner of Privet Drive,"
+    },
+    {
+      "id": 1,
+      "start": 3.42,
+      "end": 5.7,
+      "text": " but there wasn't a map in sight."
+    },
+    {
+      "id": 2,
+      "start": 6.4200000000000035,
+      "end": 8.52,
+      "text": " What could he have been thinking of?"
+    },
+    {
+      "id": 3,
+      "start": 8.72,
+      "end": 10.46,
+      "text": " It must have been a trick of the light."
+    },
+    {
+      "id": 4,
+      "start": 10.84,
+      "end": 14.06,
+      "text": " Mr Dursley blinked and stared at the cat."
+    },
+    {
+      "id": 5,
+      "start": 14.740000000000004,
+      "end": 16.1,
+      "text": " It stared back."
+    },
+    {
+      "id": 6,
+      "start": 16.860000000000003,
+      "end": 20.3,
+      "text": " As Mr Dursley drove around the corner and up the road,"
+    },
+    {
+      "id": 7,
+      "start": 20.46,
+      "end": 22.06,
+      "text": " he watched the cat in his mirror."
+    },
+    {
+      "id": 8,
+      "start": 22.34,
+      "end": 25.56,
+      "text": " It was now reading the sign that said Privet Drive."
+    },
+    {
+      "id": 9,
+      "start": 26.32,
+      "end": 28.5,
+      "text": " No, looking at the sign."
+    },
+    {
+      "id": 10,
+      "start": 28.5,
+      "end": 30.94,
+      "text": " Cats couldn't read maps or signs."
+    },
+    {
+      "id": 11,
+      "start": 32.38,
+      "end": 36.42,
+      "text": " Mr Dursley gave himself a little shake and put the cat out of his mind."
+    }
+  ]
+}

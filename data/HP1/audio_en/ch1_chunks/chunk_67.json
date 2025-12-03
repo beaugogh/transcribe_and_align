@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_67.wav",
+  "text": " could i could i say good-bye to him sir asked hagrid he bent his great shaggy head over harry and gave him what must have been a very scratchy whiskery kiss you",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 12.52,
+      "text": " could i could i say good-bye to him sir asked hagrid he bent his great shaggy head over harry and gave him what must have been a very scratchy whiskery kiss"
+    },
+    {
+      "id": 1,
+      "start": 12.52,
+      "end": 13.06,
+      "text": " you"
+    }
+  ]
+}

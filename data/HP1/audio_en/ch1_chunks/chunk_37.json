@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_37.wav",
+  "text": " mrs dursley sipped her tea through pursed lips mr dursley wondered whether he dared tell her he'd heard the name potter he decided he didn't dare instead he said as casually as he could you",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 15.28,
+      "text": " mrs dursley sipped her tea through pursed lips mr dursley wondered whether he dared tell her he'd heard the name potter he decided he didn't dare instead he said as casually as he could"
+    },
+    {
+      "id": 1,
+      "start": 15.28,
+      "end": 15.58,
+      "text": " you"
+    }
+  ]
+}

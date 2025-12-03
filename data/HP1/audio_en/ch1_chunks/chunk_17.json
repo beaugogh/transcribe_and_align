@@ -1,0 +1,61 @@
+{
+  "chunk_file": "chunk_17.wav",
+  "text": " He had forgotten all about the people in cloaks until he passed a group of them next to the bakers. He eyed them angrily as he passed. He didn't know why, but they made him uneasy. This lot were whispering excitedly too, and he couldn't see a single collecting tin. It was on his way back past them, clutching a large doughnut in a bag, that he caught a few words of what they were saying.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.62,
+      "text": " He had forgotten all about the people in cloaks"
+    },
+    {
+      "id": 1,
+      "start": 2.62,
+      "end": 5.44,
+      "text": " until he passed a group of them next to the bakers."
+    },
+    {
+      "id": 2,
+      "start": 5.88,
+      "end": 8.24,
+      "text": " He eyed them angrily as he passed."
+    },
+    {
+      "id": 3,
+      "start": 8.66,
+      "end": 12.42,
+      "text": " He didn't know why, but they made him uneasy."
+    },
+    {
+      "id": 4,
+      "start": 13.46,
+      "end": 15.9,
+      "text": " This lot were whispering excitedly too,"
+    },
+    {
+      "id": 5,
+      "start": 16.06,
+      "end": 18.68,
+      "text": " and he couldn't see a single collecting tin."
+    },
+    {
+      "id": 6,
+      "start": 19.36,
+      "end": 21.5,
+      "text": " It was on his way back past them,"
+    },
+    {
+      "id": 7,
+      "start": 21.6,
+      "end": 24.0,
+      "text": " clutching a large doughnut in a bag,"
+    },
+    {
+      "id": 8,
+      "start": 24.2,
+      "end": 26.6,
+      "text": " that he caught a few words of what they were saying."
+    }
+  ]
+}

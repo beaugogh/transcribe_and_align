@@ -1,0 +1,61 @@
+{
+  "chunk_file": "chunk_15.wav",
+  "text": " \"'Mr Dursley always sat with his back to the window \"'in his office on the ninth floor. \"'If he hadn't, he might have found it harder \"'to concentrate on drills that morning. \"'He didn't see the owls swooping past in broad daylight, \"'though people down in the street did. \"'They pointed and gazed open-mouthed \"'as owl after owl sped overhead. \"'Most of them had never seen an owl, even at night-time.",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.62,
+      "text": " \"'Mr Dursley always sat with his back to the window"
+    },
+    {
+      "id": 1,
+      "start": 3.62,
+      "end": 5.08,
+      "text": " \"'in his office on the ninth floor."
+    },
+    {
+      "id": 2,
+      "start": 5.46,
+      "end": 8.22,
+      "text": " \"'If he hadn't, he might have found it harder"
+    },
+    {
+      "id": 3,
+      "start": 8.22,
+      "end": 10.34,
+      "text": " \"'to concentrate on drills that morning."
+    },
+    {
+      "id": 4,
+      "start": 10.64,
+      "end": 15.54,
+      "text": " \"'He didn't see the owls swooping past in broad daylight,"
+    },
+    {
+      "id": 5,
+      "start": 15.76,
+      "end": 17.54,
+      "text": " \"'though people down in the street did."
+    },
+    {
+      "id": 6,
+      "start": 17.66,
+      "end": 20.54,
+      "text": " \"'They pointed and gazed open-mouthed"
+    },
+    {
+      "id": 7,
+      "start": 20.54,
+      "end": 23.3,
+      "text": " \"'as owl after owl sped overhead."
+    },
+    {
+      "id": 8,
+      "start": 24.360000000000003,
+      "end": 27.38,
+      "text": " \"'Most of them had never seen an owl, even at night-time."
+    }
+  ]
+}

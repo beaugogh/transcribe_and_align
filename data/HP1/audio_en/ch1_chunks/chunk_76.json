@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_76.wav",
+  "text": " a breeze ruffled the neat hedges of privet drive which lay silent and tidy under the inky sky the very last place you would expect astonishing things to happen you",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 11.28,
+      "text": " a breeze ruffled the neat hedges of privet drive which lay silent and tidy under the inky sky the very last place you would expect astonishing things to happen"
+    },
+    {
+      "id": 1,
+      "start": 11.28,
+      "end": 11.48,
+      "text": " you"
+    }
+  ]
+}

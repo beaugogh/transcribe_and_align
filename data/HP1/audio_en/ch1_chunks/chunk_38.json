@@ -1,0 +1,43 @@
+{
+  "chunk_file": "chunk_38.wav",
+  "text": " \"'Their son. He'd be about Dudley's age now, wouldn't he?' \"'I suppose so,' said Mrs Dursley, stiffly. \"'What's his name again? Howard, isn't it?' \"'Harry. Nasty, common name, if you ask me.' \"'Oh, yes,' said Mr Dursley, his heart sinking horribly. \"'Yes, I quite agree.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.36,
+      "text": " \"'Their son. He'd be about Dudley's age now, wouldn't he?'"
+    },
+    {
+      "id": 1,
+      "start": 4.36,
+      "end": 8.58,
+      "text": " \"'I suppose so,' said Mrs Dursley, stiffly."
+    },
+    {
+      "id": 2,
+      "start": 8.88,
+      "end": 11.72,
+      "text": " \"'What's his name again? Howard, isn't it?'"
+    },
+    {
+      "id": 3,
+      "start": 11.72,
+      "end": 15.76,
+      "text": " \"'Harry. Nasty, common name, if you ask me.'"
+    },
+    {
+      "id": 4,
+      "start": 15.76,
+      "end": 20.72,
+      "text": " \"'Oh, yes,' said Mr Dursley, his heart sinking horribly."
+    },
+    {
+      "id": 5,
+      "start": 21.1,
+      "end": 23.14,
+      "text": " \"'Yes, I quite agree.'"
+    }
+  ]
+}

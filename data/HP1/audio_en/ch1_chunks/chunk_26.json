@@ -1,0 +1,55 @@
+{
+  "chunk_file": "chunk_26.wav",
+  "text": " \"'Mr Dazley stood rooted to the spot. \"'He had been hugged by a complete stranger. \"'He also thought he had been called a muggle, whatever that was. \"'He was rattled. \"'He hurried to his car and set off home, \"'hoping he was imagining things, \"'which he had never hoped before, \"'because he didn't approve of imagination.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.96,
+      "text": " \"'Mr Dazley stood rooted to the spot."
+    },
+    {
+      "id": 1,
+      "start": 3.46,
+      "end": 6.6,
+      "text": " \"'He had been hugged by a complete stranger."
+    },
+    {
+      "id": 2,
+      "start": 7.46,
+      "end": 11.72,
+      "text": " \"'He also thought he had been called a muggle, whatever that was."
+    },
+    {
+      "id": 3,
+      "start": 12.12,
+      "end": 13.38,
+      "text": " \"'He was rattled."
+    },
+    {
+      "id": 4,
+      "start": 13.44,
+      "end": 16.36,
+      "text": " \"'He hurried to his car and set off home,"
+    },
+    {
+      "id": 5,
+      "start": 16.5,
+      "end": 18.32,
+      "text": " \"'hoping he was imagining things,"
+    },
+    {
+      "id": 6,
+      "start": 18.52,
+      "end": 19.96,
+      "text": " \"'which he had never hoped before,"
+    },
+    {
+      "id": 7,
+      "start": 20.18,
+      "end": 22.72,
+      "text": " \"'because he didn't approve of imagination.'"
+    }
+  ]
+}

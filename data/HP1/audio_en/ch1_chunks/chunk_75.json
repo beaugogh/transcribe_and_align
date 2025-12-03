@@ -1,0 +1,19 @@
+{
+  "chunk_file": "chunk_75.wav",
+  "text": " \"'Good luck, Harry,' he murmured. \"'He turned on his heel, and with a swish of his cloak he was gone.'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.52,
+      "text": " \"'Good luck, Harry,' he murmured."
+    },
+    {
+      "id": 1,
+      "start": 2.68,
+      "end": 7.38,
+      "text": " \"'He turned on his heel, and with a swish of his cloak he was gone.'"
+    }
+  ]
+}

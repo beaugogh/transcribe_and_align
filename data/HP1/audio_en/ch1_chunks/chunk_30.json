@@ -1,0 +1,31 @@
+{
+  "chunk_file": "chunk_30.wav",
+  "text": " \"'Mrs Dursley had had a nice, normal day. \"'She told him over dinner all about Mrs Nextdoor's problems with her daughter \"'and how Dudley had learnt a new word. \"'Shamt!'",
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.1,
+      "text": " \"'Mrs Dursley had had a nice, normal day."
+    },
+    {
+      "id": 1,
+      "start": 3.82,
+      "end": 8.08,
+      "text": " \"'She told him over dinner all about Mrs Nextdoor's problems with her daughter"
+    },
+    {
+      "id": 2,
+      "start": 8.08,
+      "end": 10.38,
+      "text": " \"'and how Dudley had learnt a new word."
+    },
+    {
+      "id": 3,
+      "start": 11.22,
+      "end": 11.78,
+      "text": " \"'Shamt!'"
+    }
+  ]
+}
