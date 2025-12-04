@@ -72,4 +72,4 @@ def split_chapters(file_path: str) -> None:
 
 
 if __name__ == "__main__":
-    split_chapters("/home/bo/workspace/transcribe_and_align/data/HP1/text_en/07 Harry Potter and the Deathly Hallows.txt")
+    split_chapters("/home/bo/workspace/transcribe_and_align/data/HP1/text_en/01 Harry Potter and the Philosophers Stone.txt")
